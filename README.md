@@ -16,6 +16,4 @@ Hi, I'm Kent Emman - a UX/UI designer, editor, and photographer with a passion f
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kentemman&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=Kentemman&label=Visitors&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
